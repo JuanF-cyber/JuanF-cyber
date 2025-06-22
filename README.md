@@ -9,7 +9,8 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=JuanF-cyber&bg_color=212121&color=ffffff&line=404db0&point=ffcd42&area=true&hide_border=true"/>
 </div>
 # 💫 About Me:
-Soy desarrollador de software con experiencia en la creación de soluciones tecnológicas eficientes, modernas y escalables. Trabajo con lenguajes como Python, Java, PHP y JavaScript, desarrollando aplicaciones web, sistemas de gestión, automatizaciones y APIs. Me enfoco en la escritura de código limpio, estructurado y mantenible, integrando buenas prácticas de programación y seguridad. Me apasiona aprender nuevas tecnologías, colaborar en proyectos y aportar valor a través del desarrollo de software de calidad.
+
+I am a software developer with experience creating efficient, modern, and scalable technological solutions. I work with languages ​​such as Python, Java, PHP, and JavaScript, developing web applications, management systems, automation, and APIs. I focus on writing clean, structured, and maintainable code, integrating good programming and security practices. I am passionate about learning new technologies, collaborating on projects, and adding value through quality software development.
 
 
 ## 🌐 Socials:
